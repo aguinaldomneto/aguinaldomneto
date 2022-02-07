@@ -1,4 +1,4 @@
-<h1>##Olá, que bom te ver por aqui! meu nome é aguinaldo Morais 🧑🏻‍💻</h1>
+<h1>#Olá, que bom te ver por aqui! Meu nome é Aguinaldo Morais 🧑🏻‍💻</h1>
 
 <div align="center">
   <a href="https://github.com/aguinaldomneto"><a/>
