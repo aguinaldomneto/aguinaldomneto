@@ -11,7 +11,7 @@
   <img align="center" alt="ag-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="ag-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ag-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="ag-pic" height="300" style="border-radius:50px;" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+  <img align="right" alt="ag-pic" height="280" style="border-radius:50px;" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
   </div>
   
   ##
