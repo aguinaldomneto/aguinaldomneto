@@ -22,3 +22,5 @@
 - 🌱Estudo para aperfeiçoar minhas habilidades na área de desenvolvedor Front-End com foco em JavaScript e CSS, além de outras linguagens como Bootstrap, TypeScript, ReactJS, Node.js, MongoDB e Metodologias Ágeis.
 
 - 🤝🏻Gosto de contribuir com a equipe em soluções que agregam valor, e tenho facilidade em passar e adquirir conhecimento.
+
+    ![Snake animation](https://github.com/aguinaldomneto/aguinaldomneto/blob/output/github-contribution-grid-snake.svg)
