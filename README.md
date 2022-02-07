@@ -26,6 +26,7 @@
   ##
   
 <div>
+  
 - 🔭Trabalho com tecnologia desde 2014 em ambiente de suporte aplicacional administrando sistemas críticos com foco em infraestrutura e melhor experiência do usuário
 
 - ⚡Tenho conhecimento nas linguagens Javascript, HTML, CSS e bootstrap e banco de dados Oracle
