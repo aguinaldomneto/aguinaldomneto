@@ -22,11 +22,12 @@
   <a href="https://www.instagram.com/aguinaldomneto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:aguinaldomneto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aguinaldo-morais-207ab67b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ </div>
   
   ##
- 
-- 🔭 Trabalho com tecnologia desde 2014 em ambiente de suporte aplicacional administrando sistemas críticos com foco em infraestrutura e melhor experiência do usuário
+<div>
+  
+- 🔭Trabalho com tecnologia desde 2014 em ambiente de suporte aplicacional administrando sistemas críticos com foco em infraestrutura e melhor experiência do usuário
 
 - ⚡Tenho conhecimento nas linguagens Javascript, HTML, CSS e bootstrap e banco de dados Oracle
 
@@ -35,4 +36,4 @@
 - 🤝🏻Gosto de contribuir com a equipe em soluções que agregam valor, e tenho facilidade em passar e adquirir conhecimento.
 
     ![Snake animation](https://github.com/aguinaldomneto/aguinaldomneto/blob/output/github-contribution-grid-snake.svg)
-  </div>
+    </div>
