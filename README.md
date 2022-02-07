@@ -1,8 +1,7 @@
 <h1>#Olá, que bom te ver por aqui! Meu nome é Aguinaldo Morais 🧑🏻‍💻</h1>
 
 <div align="center">
-  <a href="https://github.com/aguinaldomneto"><a/>
-
+  <a href="https://github.com/aguinaldomneto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguinaldomneto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinaldomneto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -25,8 +24,8 @@
  </div>
   
   ##
-<div>
   
+<div>
 - 🔭Trabalho com tecnologia desde 2014 em ambiente de suporte aplicacional administrando sistemas críticos com foco em infraestrutura e melhor experiência do usuário
 
 - ⚡Tenho conhecimento nas linguagens Javascript, HTML, CSS e bootstrap e banco de dados Oracle
@@ -36,4 +35,4 @@
 - 🤝🏻Gosto de contribuir com a equipe em soluções que agregam valor, e tenho facilidade em passar e adquirir conhecimento.
 
     ![Snake animation](https://github.com/aguinaldomneto/aguinaldomneto/blob/output/github-contribution-grid-snake.svg)
-    </div>
+</div>
