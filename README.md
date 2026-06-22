@@ -27,13 +27,47 @@
   
 <div>
   
-- 🔭Trabalho com tecnologia desde 2014 em ambiente de suporte aplicacional administrando sistemas críticos com foco em infraestrutura e melhor experiência do usuário
+# Olá, eu sou Aguinaldo Morais 👋
 
-- ⚡Tenho conhecimento nas linguagens Javascript, HTML, CSS e bootstrap e banco de dados Oracle
+Analista de Sistemas com mais de 8 anos de experiência em sustentação e evolução de ambientes críticos de produção.
 
-- 🌱Estudo para aperfeiçoar minhas habilidades na área de desenvolvedor Front-End com foco em JavaScript e CSS, além de outras linguagens como Bootstrap, TypeScript, ReactJS, Node.js, MongoDB e Metodologias Ágeis.
+Atuo com Linux, automação, troubleshooting, monitoramento e melhoria contínua de sistemas corporativos.
 
-- 🤝🏻Gosto de contribuir com a equipe em soluções que agregam valor, e tenho facilidade em passar e adquirir conhecimento.
+Atualmente estou aprofundando conhecimentos em Cloud, Observabilidade e DevOps, desenvolvendo projetos práticos envolvendo Docker, Kubernetes, GitHub Actions, Jenkins, Terraform e AWS.
 
-    ![Snake animation](https://github.com/aguinaldomneto/aguinaldomneto/blob/output/github-contribution-grid-snake.svg)
+## Principais competências
+
+- Linux
+- Automação com Python e Shell Script
+- Weblogic, Tomcat e Apache
+- Oracle Database
+- Elastic Stack
+- Docker
+- Kubernetes
+- GitHub Actions
+- Jenkins
+- AWS
+- Terraform
+
+## Projetos em destaque
+
+### DevOps App
+Pipeline CI/CD com GitHub Actions, Docker e Kubernetes.
+
+### Linux Automation
+Scripts para automação operacional e administração Linux.
+
+### Docker Compose Lab
+Laboratório para estudos de containers e deploy automatizado.
+
+### Observability Lab (em desenvolvimento)
+Monitoramento e análise de logs utilizando Elastic Stack.
+
+## Atualmente estudando
+
+- AWS
+- Terraform
+- Kubernetes
+- Observabilidade
+- DevOps
 </div>
