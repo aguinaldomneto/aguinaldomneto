@@ -21,7 +21,6 @@ contêineres, IaC e observabilidade.
 - Redução de ~30% dos chamados com automação de chamados de usuários e de infraestrutura.
 - Migração de versão do ambiente FME em Windows.
 - Gestão de fábricas de software (N2/N3): cobrança de SLA, priorização de chamados, coleta de conhecimento e deploy em produção das correções entregues.
-- Troubleshooting de causa raiz: (1) licença da aplicação não subia após a volta do banco da nuvem para o ambiente interno; o DBID divergia do esperado e foi ajustado. (2) Queda recorrente em horário fixo, sem alertas de infra ou banco; a causa era uma rotina de banco impactando a aplicação.
 
 ## Projetos
 | Projeto | O que faz | Stack |
