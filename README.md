@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aguinaldo-morais-devops-infraestrutura-sustentacao/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:aguinaldomneto@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send?phone=5561985774969" target="_blanck"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </p>
 
 ## Sobre
